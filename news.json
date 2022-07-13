@@ -1,1 +1,26 @@
-{ }
+[
+	{
+		"title" : "Balões, mosaico, sinalizadores...",
+		"description" : "torcida do Flamengo prepara o cenário para encarar o Galo",
+		"image" : "https://s2.glbimg.com/LVctTQwys-WbrO_44e_EIdqrqJo=/0x0:2048x1364/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/a/8/IUQZYFT9iB4cQ8pepeIg/fla-foto-fc.jpg",
+		"link"  : "https://ge.globo.com/futebol/times/flamengo/noticia/2022/07/12/baloes-mosaico-sinalizadores-torcida-do-flamengo-prepara-o-cenario-para-encarar-o-galo.ghtml"
+	},
+	{
+		"title" : "Flamengo anuncia saída de Willian Arão para o Fenerbahçe",
+		"description" : "Volante viaja para realizar exames médicos na Turquia",
+		"image" : "https://s2.glbimg.com/JQlKBIg5vaCtSLMQzaioz6yRFvA=/0x0:1066x1600/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/H/U/Sgq6B6RRaok0UGPWdD0Q/whatsapp-image-2021-11-26-at-03.34.01.jpeg",
+		"link"  : "https://ge.globo.com/futebol/times/flamengo/noticia/2022/07/12/flamengo-anuncia-saida-de-willian-arao.ghtml"
+	},
+	{
+		"title" : "Rodrigo Caio tem lesão no menisco, e Flamengo fará tratamento conservador",
+		"description" : "Diagnóstico afasta risco de problema no ligamento cruzado anterior, e jogador tem preferência por evitar nova cirurgia",
+		"image" : "https://s2.glbimg.com/zTkrgehY91QTRYPyBONvGsTdw-E=/0x0:1600x1046/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/s/s/2BjyTvSuCEroBhKfDrwg/rib6039-2.jpg",
+		"link"  : "https://ge.globo.com/futebol/times/flamengo/noticia/2022/07/12/exames-indicam-lesao-de-menisco-de-rodrigo-caio-e-flamengo-fara-tratamento-conservador.ghtml"
+	},
+	{
+		"title" : "Dorival defende Rodinei e diz que busca soluções para o meio de campo do Flamengo",
+		"description" : "Técnico reconhece que time, sem Arão e Andreas, mudou forma de jogar e ficou mais 'moroso' ",
+		"image" : "https://s2.glbimg.com/sjs7nhtiltEZNfawwYPWOoXrmbs=/0x0:2339x1478/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/6/t/pB3iH1TdStd59YnXXsIA/rib6288-2.jpg",
+		"link"  : "https://ge.globo.com/futebol/times/flamengo/noticia/2022/07/10/dorival-defende-rodinei-e-diz-que-busca-solucoes-para-o-meio-de-campo-do-flamengo.ghtml"
+	},
+]
